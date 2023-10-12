@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+.header{
+    margin-top: 1%;
+}
+h3{
+    font-size: 27px;
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.light{
+    color: lightgrey;
+}
+li,h3,ul{
+    display: inline;
+}
+ul{
+    margin-left: 30%;
+}
+li{
+    color: white;
+    font-size: 22px;
+}
+.coltxt{
+    color:white;
+    width: 100%;
+    background-color: #e93a7d;
+    border-color: #e93a7d;
+    border-style: solid;
+    height: 100px;
+    width: 200px;
+    border-radius: 19px;
+}
+.color{
+    color: #adf1e9;
+}
+body{
+    font-family: sans-serif;
+    background-color: #2F1893;
+    background-size: cover;
+    background-position: center;
+    line-height: 1.6;
+}
+.signup{
+    width: 300px;
+    height: 400px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 10% auto 0;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-radius: 15px;
+}
+input{
+    accent-color: #25dac4;
+}
+.checkbox{
+    cursor: pointer;
+}
+.signup,h1{
+    color: #1e0e62;
+    margin-bottom: 30px;
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.sign-btn{
+    background-color: #482be7;
+}
+.twitter-btn{
+    background-color: #1da1f2;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 100%;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+.all{
+    margin-right: 10%;
+    float: right;
+    margin-top: 1%;
+    display: inline;
+}
+h2{
+    display: inline;
+    margin-left: 100%;
+    padding: 20px;
+    margin: 10%;
+}
+.last{
+    display: inline;
+    font-size: 30px;
+    color: white;
+}
+.hi{
+    margin-left: 12%;
+}
+.least{
+    display: inline;
+    font-size: 18px;
+    color: white;
+}
+.final{
+    display: inline;
+    margin: 10%;
+}
+h6{
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 2%;
+    color: white;
+    background-color: #e93a7d;
+    border-radius: 40px;
+    cursor: pointer;
+}
